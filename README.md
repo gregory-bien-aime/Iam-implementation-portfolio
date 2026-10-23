@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** [Greg Bien-Aime]
+**LinkedIn:** [https://www.linkedin.com/in/greg-bien-aime-13839213/]
+**GitHub:** [https://github.com/gregory-bien-aime/-Greg-Bien-Aime--IAM-portfolio]
 **Status:** In progress
 
 ---
